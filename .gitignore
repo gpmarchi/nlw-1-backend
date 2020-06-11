@@ -110,4 +110,7 @@ dist
 # Stores VSCode versions used for testing VSCode extensions
 .vscode-test
 
+# Sqlite files
+*.sqlite
+
 # End of https://www.toptal.com/developers/gitignore/api/node
